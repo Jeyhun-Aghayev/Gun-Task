@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\obj\Debug\net8.0\Gun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\obj\Debug\net8.0\Gun.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\obj\Debug\net8.0\Gun.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\obj\Debug\net8.0\Gun.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\obj\Debug\net8.0\Gun.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\bin\Debug\net8.0\Gun.exe
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\bin\Debug\net8.0\Gun.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\bin\Debug\net8.0\Gun.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\bin\Debug\net8.0\Gun.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\bin\Debug\net8.0\Gun.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\obj\Debug\net8.0\Gun.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\obj\Debug\net8.0\refint\Gun.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\obj\Debug\net8.0\Gun.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\obj\Debug\net8.0\Gun.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Gun\obj\Debug\net8.0\ref\Gun.dll
